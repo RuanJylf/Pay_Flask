@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Run cache
+.idea/
+
+# logs files
+logs/log*
+
+# images
+*.png
